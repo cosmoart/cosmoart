@@ -7,3 +7,4 @@
 - 📫 You can communicate with me through Discord: CosmoArt#3138
 - 😄 Pronouns: He / Him
 - :earth_americas: Languages: English and Spanish
+- [Instagram](https://www.instagram.com/cosmo_art0/)
