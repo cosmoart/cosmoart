@@ -1,30 +1,34 @@
-## Hi, I'm Cosmo
-
-I am a junior web developer looking to learn and improve myself every day. I’m currently working on my personal portfolio and challenges. I’m currently learning React
+<div align="center">
+<a href="https://cosmoart.github.io/cosmoart/index.html">
+  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.png" alt="Hi!, i am cosmo" width="45%"/>
+  </a>
+  <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
+with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React.</strong></p>
+</div>
 
 ### GitHub stats
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmo0dev&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmo0dev&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 ### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmo0dev&repo=Order-summary-component-main-solution&show_icons=true&theme=github_dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Order-summary-component-main-solution&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmo0dev&repo=Order-summary-component-main-solution&show_icons=true&theme=github_dark" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Order-summary-component-main-solution&show_icons=true&theme=github_dark" />
 </a>
 
 <br />
 <br />
 
-<a href="https://example.com" target="_blank">
-  <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmo0dev/cosmo0dev/blob/main/social_media_icons/logo_cosmo_2KB.svg" />
+<a href="https://cosmoart.github.io/cosmoart/index.html">
+  <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/logo_cosmo_2KB.svg" />
 </a>
-<a href="discord.com/channels/@me/734087835472232559/" target="_blank">
-  <img align="right" alt="Discord" width="22px" src="https://github.com/cosmo0dev/cosmo0dev/blob/main/social_media_icons/discord.svg" />
+<a href="discord.com/channels/@me/734087835472232559/">
+  <img align="right" alt="Discord" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/discord.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-  <img align="right" alt="Mail" width="22px"  height="25px" src="https://github.com/cosmo0dev/cosmo0dev/blob/main/social_media_icons/gmail.svg" />
+<a href="https://mail.google.com/mail/u/0/#inbox">
+  <img align="right" alt="Mail" width="22px"  height="25px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
 </a>
