@@ -13,22 +13,25 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 
 ### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Order-summary-component-main-solution&show_icons=true&theme=github_dark" />
+<a href="https://github.com/CosmoArt/four-card-feature-section-master">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Order-summary-component-main-solution&show_icons=true&theme=github_dark" />
+<a href="https://github.com/CosmoArt/stats-preview-card-component-main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=stats-preview-card-component-main&show_icons=true&theme=github_dark" />
 </a>
 
 <br />
 <br />
+<br />
 
-<a href="https://cosmoart.github.io/cosmoart/index.html">
-  <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/logo_cosmo_2KB.svg" />
+> Note: the list of all my social networks is on [my personal website](https://cosmoart.github.io/cosmoart/index.html)
+
+<a href="https://www.instagram.com/cosmo_art0/">
+  <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
 </a>
-<a href="discord.com/channels/@me/734087835472232559/">
+<a href="https://discord.com/users/734087835472232559">
   <img align="right" alt="Discord" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/discord.svg" />
 </a>
 <a href="https://mail.google.com/mail/u/0/#inbox">
-  <img align="right" alt="Mail" width="22px"  height="25px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
+  <img align="right" alt="Mail" width="24px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
 </a>
