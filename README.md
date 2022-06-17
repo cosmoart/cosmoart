@@ -32,6 +32,6 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 <a href="https://discord.com/users/734087835472232559">
   <img align="right" alt="Discord" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/discord.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox">
-  <img align="right" alt="Mail" width="24px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
+<a href="mailto:cosmohydra17@gmail.com">
+  <img align="right" alt="Mail" width="22px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
 </a>
