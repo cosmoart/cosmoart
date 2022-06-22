@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://cosmoart.github.io/cosmoart/index.html">
+<a href="https://cosmoart.github.io">
   <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.png" alt="Hi!, i am cosmo" width="38%"/>
   </a>
   <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
@@ -24,7 +24,7 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 <br />
 <br />
 
-> Note: the list of all my social networks is on [my personal website](https://cosmoart.github.io/cosmoart/index.html)
+> Note: the list of all my social networks is on [my personal website](https://cosmoart.github.io)
 
 <a href="https://www.instagram.com/cosmo_art0/">
   <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
