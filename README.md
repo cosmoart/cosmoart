@@ -24,8 +24,6 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 <br />
 <br />
 
-> Note: the list of all my social networks is on [my personal website](https://cosmoart.github.io)
-
 <a href="https://www.instagram.com/cosmo_art0/">
   <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
 </a>
