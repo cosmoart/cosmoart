@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://cosmoart.github.io">
-  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.png" alt="Hi!, i am cosmo" width="38%"/>
+  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="38%"/>
   </a>
   <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
 with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React.</strong></p>
