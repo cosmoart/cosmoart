@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://cosmoart.github.io">
-  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="38%"/>
+  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="40%"/>
   </a>
   <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
 with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React.</strong></p>
@@ -8,17 +8,25 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 
 ### GitHub stats
 
+<div align="center">
+  
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
+  
+</div>
 
 ### Top Repositories
-
+  
+<div align="center">
+  
 <a href="https://github.com/CosmoArt/four-card-feature-section-master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/CosmoArt/stats-preview-card-component-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=stats-preview-card-component-main&show_icons=true&theme=github_dark" />
 </a>
+  
+</div>
 
 <br />
 <br />
