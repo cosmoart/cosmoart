@@ -1,29 +1,42 @@
 <div align="center">
 <a href="https://cosmoart.github.io">
-  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="40%"/>
+  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="42%"/>
   </a>
-  <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
-with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React.</strong></p>
+  <p>
+    I'm a junior Web Developer who loves to <strong>learn and be challenged</strong>. I specialize in frontend development working with tools like                <strong>React</strong>. I am currently improving and learning technologies like <strong>TypeScript, Node and Jest.</strong>
+  </p>
 </div>
 
-### GitHub stats
+<h2 align="center">Skills</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-html.svg" width="50" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-css.svg" width="50" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-javascript.svg" width="47" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-react.svg" width="50" title="React"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-nextjs.svg" width="50" title="NextJS"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-sass.svg" width="50" title="Sass"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-tailwind.svg" width="50" title="Tailwind"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-figma.svg" width="47" title="Figma"/>
+</div>
+
+<h2 align="center">GitHub stats</h2>
 
 <div align="center">
-  
+
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
   
 </div>
 
-### Top Repositories
+<h2 align="center">Top Repositories</h2>
   
 <div align="center">
   
-<a href="https://github.com/CosmoArt/four-card-feature-section-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
+<a href="https://github.com/cosmoart/Space-tourism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/CosmoArt/stats-preview-card-component-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=stats-preview-card-component-main&show_icons=true&theme=github_dark" />
+<a href="https://github.com/cosmoart/Where-in-the-world">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Where-in-the-world&show_icons=true&theme=github_dark" />
 </a>
   
 </div>
