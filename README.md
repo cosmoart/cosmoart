@@ -9,14 +9,14 @@
 
 <h2 align="center">Skills</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-html.svg" width="50" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-css.svg" width="50" title="CSS"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-javascript.svg" width="47" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-react.svg" width="50" title="React"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-nextjs.svg" width="50" title="NextJS"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-sass.svg" width="50" title="Sass"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-tailwind.svg" width="50" title="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-figma.svg" width="47" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-html.svg" width="40" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-css.svg" width="40" title="CSS"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-javascript.svg" width="37" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-react.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-nextjs.svg" width="40" title="NextJS"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-sass.svg" width="40" title="Sass"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-tailwind.svg" width="40" title="Tailwind"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/c4dfb080f5f665ca9c7d7692228dd3e0cddf5aa5/assets/icon-figma.svg" width="37" title="Figma"/>
 </div>
 
 <h2 align="center">GitHub stats</h2>
