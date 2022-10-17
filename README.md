@@ -3,7 +3,7 @@
   <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="42%"/>
   </a>
   <p>
-    I'm a junior Web Developer who loves to <strong>learn and be challenged</strong>. I specialize in frontend development working with tools like                <strong>React</strong>. I am currently improving and learning technologies like <strong>TypeScript, Node and Jest.</strong>
+    I'm a junior Web Developer who loves to <strong>learn and be challenged</strong>. I specialize in frontend development working with tools like                <strong>React</strong>. I am currently improving and learning technologies like <strong>TypeScript, Node.js and testing.</strong>
   </p>
 </div>
 
