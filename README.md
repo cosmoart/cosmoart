@@ -23,7 +23,7 @@
 
 <div align="center">
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://cosmo-github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
   
 </div>
@@ -33,10 +33,10 @@
 <div align="center">
   
 <a href="https://github.com/cosmoart/Space-tourism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/cosmoart/Where-in-the-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Where-in-the-world&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Where-in-the-world&show_icons=true&theme=github_dark" />
 </a>
   
 </div>
