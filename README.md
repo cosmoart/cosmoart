@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-figma.svg" width="36" title="Figma"/>
   <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-node.svg" width="45" title="NodeJS"/>
   <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-express.svg" width="43" title="Express"/>
+  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-mysql.svg" width="43" title="MySQL"/>
 </div>
 
 <h2 align="center">GitHub stats</h2>
