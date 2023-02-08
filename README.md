@@ -36,10 +36,10 @@
   
 <div align="center">
   
-<a href="https://github.com/cosmoart/Space-tourism">
+<a href="https://github.com/cosmoart/quiz-game">
   <img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/cosmoart/Where-in-the-world">
+<a href="https://github.com/cosmoart/Space-tourism">
   <img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
 </a>
   
