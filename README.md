@@ -1,60 +1,63 @@
 <div align="center">
-<a href="https://cosmoart.github.io">
-  <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="42%"/>
+	<a href="https://cosmoart.vercel.app">
+	<img src="assets/hero.svg" alt="Hi, I am cosmo" width="55%"/>
   </a>
   <p>
-    I'm a junior Web Developer who loves to <strong>learn and be challenged</strong>. I specialize in frontend development working with tools like                <strong>React</strong>. I am currently improving and learning technologies like <strong>TypeScript, Node.js and testing.</strong>
+		I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React, Nextjs, and Tailwind</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, and Express</strong>, as well as <strong>Typescript and Testing</strong>.
   </p>
-</div>
+
 
 <h2 align="center">Skills</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-html.svg" width="40" title="HTML"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-css.svg" width="40" title="CSS"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-javascript.svg" width="37" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-react.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-nextjs.svg" width="40" title="NextJS"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-sass.svg" width="45" title="Sass"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-tailwind.svg" width="40" title="Tailwind"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-bootstrap.svg" width="44" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-figma.svg" width="36" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-node.svg" width="45" title="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-express.svg" width="43" title="Express"/>
-  <img src="https://raw.githubusercontent.com/cosmoart/cosmoart/main/assets/icon-mysql.svg" width="38" title="MySQL"/>
-</div>
+  <img src="assets/icons/html.svg" width="40" title="HTML"/>
+  <img src="assets/icons/css.svg" width="40" title="CSS"/>
+  <img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
+  <img src="assets/icons/react.svg" width="40" title="React"/>
+  <img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
+  <img src="assets/icons/sass.svg" width="45" title="Sass"/>
+  <img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
+  <img src="assets/icons/bootstrap.svg" width="44" title="Bootstrap"/>
+  <img src="assets/icons/figma.svg" width="36" title="Figma"/>
+  <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
+  <img src="assets/icons/express.svg" width="43" title="Express"/>
+  <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
+
 
 <h2 align="center">GitHub stats</h2>
 
-<div align="center">
+<table>
+	<tr>
+		<td>
+			<img src="https://cosmo-github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark" />
+		</td>
+		<td>
+			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact" />
+		</td>
+	</tr>
+</table>
 
-| [![Anurag's GitHub stats](https://cosmo-github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
-  
-</div>
 
 <h2 align="center">Top Repositories</h2>
-  
-<div align="center">
-  
+
 <a href="https://github.com/cosmoart/quiz-game">
-  <img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
+	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/cosmoart/Space-tourism">
-  <img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
+	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
 </a>
-  
+
 </div>
 
 <br />
 <br />
 <br />
 
+
 <a href="https://www.instagram.com/cosmo_art0/">
-  <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
+  <img align="right" alt="Instagram" width="22px" src="assets/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/734087835472232559">
-  <img align="right" alt="Discord" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/discord.svg" />
+  <img align="right" alt="Discord" width="22px" src="assets/icons/discord.svg" />
 </a>
 <a href="mailto:cosmohydra17@gmail.com">
-  <img align="right" alt="Mail" width="22px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
+  <img align="right" alt="Mail" width="22px" height="27px" src="assets/icons/gmail.svg" />
 </a>
