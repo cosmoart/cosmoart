@@ -30,7 +30,7 @@
 			<img src="https://cosmo-github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark" />
 		</td>
 		<td>
-			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact" />
+			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
 		</td>
 	</tr>
 </table>
