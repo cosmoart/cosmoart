@@ -20,7 +20,7 @@
   <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
   <img src="assets/icons/express.svg" width="43" title="Express"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
-
+  <img src="assets/icons/blender.svg" width="38" title="Blender"/>
 
 <h2 align="center">GitHub stats</h2>
 
