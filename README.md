@@ -1,3 +1,5 @@
+<!-- Home image: https://www.figma.com/file/WBJPttba7RsHixl5EIocAc/Hello?node-id=101%3A2&t=n0K6N0bnjjfVEk7L-1 -->
+
 <div align="center">
 	<a href="https://cosmoart.vercel.app">
 	<img src="assets/hero.svg" alt="Hi, I am cosmo" width="55%"/>
