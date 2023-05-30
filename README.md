@@ -2,11 +2,11 @@
 
 <div align="center">
 	<a href="https://cosmoart.vercel.app">
-	<img src="assets/hero.svg" alt="Hi, I am cosmo" width="55%"/>
-  </a>
-  <p>
-		I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React, Nextjs, and Tailwind</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, and Express</strong>, as well as <strong>Typescript and Testing</strong>.
-  </p>
+		<img src="assets/hero.svg" alt="Hi, I am cosmo" width="55%"/>
+  	</a>
+	<p>
+I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React, Nextjs, and Tailwind</strong>. Currently, I'm learning and improving in backend development, with technologies like <strong>Node.js, MySQL, and Express</strong>, as well as <strong>Typescript and Testing</strong>.
+  	</p>
 
 
 <h2 align="center">Skills</h2>
@@ -42,11 +42,11 @@
 
 <h2 align="center">Top Repositories</h2>
 
+<a href="https://github.com/cosmoart/jobzilla">
+	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=jobzilla&show_icons=true&theme=github_dark" />
+</a>
 <a href="https://github.com/cosmoart/quiz-game">
 	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/cosmoart/Space-tourism">
-	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Space-tourism&show_icons=true&theme=github_dark" />
 </a>
 
 </div>
