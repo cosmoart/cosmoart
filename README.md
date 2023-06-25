@@ -42,11 +42,11 @@ I'm a passionate Web Developer specializing in frontend development with technol
 
 <h2 align="center">Top Repositories</h2>
 
-<a href="https://github.com/cosmoart/jobzilla">
-	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=jobzilla&show_icons=true&theme=github_dark" />
-</a>
 <a href="https://github.com/cosmoart/quiz-game">
 	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/cosmoart/jobzilla">
+	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=jobzilla&show_icons=true&theme=github_dark" />
 </a>
 
 </div>
