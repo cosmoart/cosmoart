@@ -17,7 +17,6 @@ I'm a passionate Web Developer specializing in frontend development with technol
   <img src="assets/icons/react.svg" width="40" title="React"/>
   <img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
   <img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
-  <img src="assets/icons/bootstrap.svg" width="44" title="Bootstrap"/>
   <img src="assets/icons/figma.svg" width="36" title="Figma"/>
   <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
   <img src="assets/icons/express.svg" width="43" title="Express"/>
