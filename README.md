@@ -21,7 +21,8 @@ I'm a passionate Web Developer specializing in frontend development with technol
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
   <img src="assets/icons/blender.svg" width="38" title="Blender"/>
-
+  <img src="assets/icons/astro.svg" width="38" title="Astro"/>
+  
 <h2 align="center">GitHub stats</h2>
 
 <table>
