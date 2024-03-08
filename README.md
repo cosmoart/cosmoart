@@ -11,15 +11,33 @@ I'm a passionate Web Developer specializing in frontend development with technol
   <img src="assets/skills/html.svg" width="42" title="HTML"/>
   <img src="assets/skills/css.svg" width="42" title="CSS"/>
   <img src="assets/skills/javascript.svg" width="42" title="JavaScript"/>
-  <img src="assets/skills/typescript.svg" width="42" title="TypeScript"/>
-  <img src="assets/skills/react.svg" width="42" title="React"/>
-  <img src="assets/skills/nextjs.svg" width="42" title="Next.js"/>
-  <img src="assets/skills/tailwind.svg" width="42" title="Tailwind"/>
-  <img src="assets/skills/figma.svg" width="42" title="Figma"/>
-  <img src="assets/skills/node.svg" width="42" title="Node.js"/>
-  <img src="assets/skills/blender.svg" width="42" title="Blender"/>
-  <img src="assets/skills/astro.svg" width="42" title="Astro"/>
-  <img src="assets/skills/svelte.svg" width="42" title="Svelte"/>
+	<a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/typescript.svg" width="42" title="TypeScript"/>
+	</a>
+	<a href="https://react.dev" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/react.svg" width="42" title="React"/>
+	</a>
+	<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/nextjs.svg" width="42" title="Next.js"/>
+	</a>
+	<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/tailwind.svg" width="42" title="Tailwind"/>
+	</a>
+	<a href="https://www.figma.com" target="_blank" rel="noopener noreferrer">
+ 	 <img src="assets/skills/figma.svg" width="42" title="Figma"/>
+	</a>
+	<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/node.svg" width="42" title="Node.js"/>
+	</a>
+	<a href="https://www.blender.org" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/blender.svg" width="42" title="Blender"/>
+	</a>
+	<a href="https://astro.build" target="_blank" rel="noopener noreferrer">
+ 	 <img src="assets/skills/astro.svg" width="42" title="Astro"/>
+	</a>
+	<a href="https://svelte.dev" target="_blank" rel="noopener noreferrer">
+ 	 <img src="assets/skills/svelte.svg" width="42" title="Svelte"/>
+	</a>
 
 <h2>GitHub stats</h2>
 
