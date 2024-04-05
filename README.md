@@ -59,7 +59,7 @@ I'm a Web Developer specializing in frontend development with technologies like 
 <a href="https://github.com/cosmoart/quiz-game">
 	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/cosmoart/jobzilla">
+<a href="https://github.com/cosmoart/Freesets">
 	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Freesets&show_icons=true&theme=github_dark" />
 </a>
 
