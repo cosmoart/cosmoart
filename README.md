@@ -8,6 +8,7 @@ I'm a Web Developer specializing in frontend development with technologies like 
 
 
 <h2>Skills</h2>
+
   <img src="assets/skills/html.svg" width="42" title="HTML"/>
   <img src="assets/skills/css.svg" width="42" title="CSS"/>
   <img src="assets/skills/javascript.svg" width="42" title="JavaScript"/>
