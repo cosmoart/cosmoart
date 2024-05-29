@@ -30,6 +30,9 @@ I'm a Web Developer specializing in frontend development with technologies like 
 	<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
   	<img src="assets/skills/node.svg" width="42" title="Node.js"/>
 	</a>
+	<a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
+  	<img src="assets/skills/express.svg" width="42" title="Express"/>
+	</a>
 	<a href="https://www.blender.org" target="_blank" rel="noopener noreferrer">
   	<img src="assets/skills/blender.svg" width="42" title="Blender"/>
 	</a>
