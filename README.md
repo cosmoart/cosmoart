@@ -45,7 +45,7 @@ I'm a Web Developer specializing in frontend development with technologies like 
 <br />
 
 
-<a href="https://www.instagram.com/cosmo_art0/">
+<a href="https://www.instagram.com/cosmoart0/">
   <img align="right" alt="Instagram" width="22px" src="assets/instagram.svg" />
 </a>
 <a href="https://discord.com/users/734087835472232559">
