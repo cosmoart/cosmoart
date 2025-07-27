@@ -19,10 +19,10 @@ I'm a Web Developer specializing in frontend development with technologies like 
 <table>
 	<tr>
 		<td>
-			<img src="https://cosmo-github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark" />
+			<img src="https://github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark" />
 		</td>
 		<td>
-			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
 		</td>
 	</tr>
 </table>
@@ -31,10 +31,10 @@ I'm a Web Developer specializing in frontend development with technologies like 
 <h2>Top Repositories</h2>
 
 <a href="https://github.com/cosmoart/Freesets">
-	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Freesets&show_icons=true&theme=github_dark" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=Freesets&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/cosmoart/quiz-game">
-	<img align="center" src="https://cosmo-github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=quiz-game&show_icons=true&theme=github_dark" />
 </a>
 
 </div>
